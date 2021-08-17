@@ -1,0 +1,12 @@
+{
+"0":["Sachsen", "Brandenburg", "Sachsen-Anhalt", "Thüringen"],
+"1":["Berlin", "Brandenburg", "Sachsen-Anhalt", "Mecklenburg-Vorpommern", "Niedersachsen"],
+"2":["Hamburg", "Schleswig-Holstein", "Niedersachsen", "Mecklenburg-Vorpommern", "Bremen", "Sachsen-Anhalt"],
+"3":["Niedersachsen", "Nordrhein-Westfalen", "Hessen", "Thüringen", "Sachsen-Anhalt"],
+"4":["Nordrhein-Westfalen", "Niedersachsen"],
+"5":["Nordrhein-Westfalen", "Rheinland-Pfalz", "Hessen"],
+"6":["Hessen", "Bayern", "Baden-Württemberg", "Rheinland-Pfalz", "Saarland"],
+"7":["Baden-Württemberg", "Bayern", "Rheinland-Pfalz"],
+"8":["Baden-Württemberg", "Bayern"],
+"9":["Bayern", "Thüringen", "Baden-Württemberg"]
+}
