@@ -1774,7 +1774,7 @@ Bischweier;;76476;07222;Baden-Württemberg
 Bisingen;b Hechingen;72406;07476;Baden-Württemberg
 Bismarckquelle;;21521;;Schleswig-Holstein
 Bismark;b Pasewalk;17322;039754;Mecklenburg-Vorpommern
-Bismark;(Altmark);39629;039089;Sachsen-Anhalt
+Bismark;(Altmark);39628;039089;Sachsen-Anhalt
 Bispingen;;29646;05194;Niedersachsen
 Bissee;;24582;04322;Schleswig-Holstein
 Bissendorf;, Kr Osnabrück;49143;05402;Niedersachsen
@@ -2937,7 +2937,7 @@ Cossebaude;;01462;0351;Sachsen
 Cossebaude;;01462;0351;Sachsen
 Cossengrün;;07985;036621;Thüringen
 Coswig;b Dresden;01640;03523;Sachsen
-Coswig;(Anhalt);06869;034903;Sachsen-Anhalt
+Coswig;(Anhalt);06868;034903;Sachsen-Anhalt
 Cöthen;;16259;033458;Brandenburg
 Cottbus;;03042;0355;Brandenburg
 Cottbus;;03044;0355;Brandenburg
@@ -4810,6 +4810,7 @@ Frankfurt;(Oder);15234;069;Brandenburg
 Frankfurt;(Oder);15236;069;Brandenburg
 Frankfurt;am Main;60308;069;Hessen
 Frankfurt;am Main;60311;069;Hessen
+Frankfurt;am Main;60312;069;Hessen
 Frankfurt;am Main;60313;069;Hessen
 Frankfurt;am Main;60314;069;Hessen
 Frankfurt;am Main;60316;069;Hessen
@@ -6826,6 +6827,7 @@ Hanau;;63457;06181;Hessen
 Hanchesmühle;, Gem Birstein;63699;;Hessen
 Handeloh;;21256;04188;Niedersachsen
 Handewitt;;24983;04608;Schleswig-Holstein
+Handewitt;;24976;;Schleswig-Holstein
 Handorf;, Winsener Marsch;21447;0451;Niedersachsen
 Handrup;;49838;05904;Niedersachsen
 Hanerau-Hademarschen;;25557;04872;Schleswig-Holstein
@@ -7979,6 +7981,7 @@ Horschbach;;66887;06387;Rheinland-Pfalz
 Hörscheid;;54552;06592;Rheinland-Pfalz
 Hörschhausen;;54552;02692;Rheinland-Pfalz
 Horschhof;;74585;07952;Baden-Württemberg
+Hörselberg-Hainich;;99820;;Thüringen
 Hörselgau;;99880;03622;Thüringen
 Hörsingen;;39356;039055;Sachsen-Anhalt
 Horsmar;;99976;036023;Thüringen
@@ -10715,6 +10718,7 @@ Ludwigshöhe;, Rheinhess;55278;06249;Rheinland-Pfalz
 Ludwigslust;, Meckl;19288;03874;Mecklenburg-Vorpommern
 Ludwigsstadt;;96337;09263;Bayern
 Ludwigswinkel;;66996;06393;Rheinland-Pfalz
+Lutherstadt Wittenberg;;06889;;Sachsen-Anhalt
 Lüerdissen;am Ith;37635;05534;Niedersachsen
 Luftkurort Lückendorf;;02797;035844;Sachsen
 Lug;, NL;03205;035329;Brandenburg
@@ -13979,7 +13983,7 @@ Quarnstedt;b Wrist;25563;04822;Schleswig-Holstein
 Quaschwitz;;07389;036484;Thüringen
 Quassel;;19249;038855;Mecklenburg-Vorpommern
 Quaßliner Mühle;;19386;038733;Mecklenburg-Vorpommern
-Quedlinburg;;06484;03946;Sachsen-Anhalt
+Quedlinburg;;06485;03946;Sachsen-Anhalt
 Queidersbach;;66851;06371;Rheinland-Pfalz
 Queienfeld;;98631;036944;Thüringen
 Queis;;06188;034602;Sachsen-Anhalt
@@ -15046,6 +15050,7 @@ Saal;a d Saale;97633;09762;Bayern
 Saalburg;, Saale;07929;036647;Thüringen
 Saalburg;, Taunus, Bahnhof;61273;;Hessen
 Saaldorf;b Lobenstein;07356;036651;Thüringen
+Saaldorf-Surheim;;83416;;Bayern
 Saalfeld;/Saale;07318;03671;Thüringen
 Saalhausen;, NL;01994;035329;Brandenburg
 Saalow;;15806;03377;Brandenburg
@@ -15658,6 +15663,7 @@ Schöne Aussicht;b Kemmenau;56132;;Rheinland-Pfalz
 Schöne Aussicht, Gem Landkern;;56759;;Rheinland-Pfalz
 Schöne Aussicht, Gem Masburg;;56759;;Rheinland-Pfalz
 Schönebeck;b Pritzwalk;16928;03395;Brandenburg
+Schönebeck (Elbe);(Elbe);39217;03928;Sachsen-Anhalt
 Schönebeck;(Elbe);39218;03928;Sachsen-Anhalt
 Schöneberg;b Angermünde;16278;033338;Brandenburg
 Schöneberg;, Hunsrück;55444;06724;Rheinland-Pfalz
@@ -19311,6 +19317,7 @@ Wümbach;;98704;036785;Thüringen
 Wunder;, Gem Reisbach;84163;;Bayern
 Wunderfeld;;19395;;Mecklenburg-Vorpommern
 Wundersleben;;99610;036376;Thüringen
+Wurster Nordseeküste;;27639;;Niedersachsen
 Wünsch;;06255;034636;Sachsen-Anhalt
 Wünschbach;;64753;;Hessen
 Wünschendorf;/Elster;07570;036603;Thüringen
