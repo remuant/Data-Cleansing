@@ -57,11 +57,11 @@ The following steps were taken:
 Mapping of PLZ to Bundesland required data in order to implement the required mapping.
 
 #### Data set to enable mapping from PLZ to Bundesland:
-* A csv file obtained from this [gist](https://gist.github.com/jbspeakr/4565964) on github was forked for this purpose. 
+* A csv file obtained from this [gist](https://gist.github.com/jbspeakr/4565964) on GitHub was forked for this purpose. 
 * It contains several features, only two were required here Plz feature and Bundesland.
-* Some data had to be corrected (Schleswig-Holstein had been mispelled) and some missing PLZ data added.
-* The forked and updated version used to clean the data can be found [here](https://gist.github.com/remuant/7c8f759ae4581e0bb24c6f83808d29fb). 
- *For convenience, it has also been included in this repository in the resources folder [here](./resources/German-Zip-Codes.csv).
+* Some data had to be corrected (Schleswig-Holstein had been misspelled) and some missing PLZ data added.
+* The forked and updated version used to clean the data can be found in a GitHub gist [here](https://gist.github.com/remuant/7c8f759ae4581e0bb24c6f83808d29fb).
+* For convenience, it has also been included in this repository in the resources folder [here](./resources/German-Zip-Codes.csv).
 
 A [dictionary](https://www.w3schools.com/python/python_dictionaries.asp) was created using the **PLZ values as the key** and the **Bundesland as the value**.
 
@@ -111,5 +111,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * Dataset used to link PLZ and Bundesland forked from [here](https://gist.github.com/jbspeakr/4565964).
 
 * Modified dataset used to link PLZ and Bundesland can be accessed [here](https://gist.github.com/remuant/7c8f759ae4581e0bb24c6f83808d29fb).
+
+* The information [here](https://www.python-forum.de/viewtopic.php?t=41275) was helpful in terms of creating checks on PLZ data.
 
 * This README makes use of the template linked [here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
